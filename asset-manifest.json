@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/demo/static/css/main.07d7437e.chunk.css",
-    "main.js": "/demo/static/js/main.63172419.chunk.js",
-    "main.js.map": "/demo/static/js/main.63172419.chunk.js.map",
-    "runtime-main.js": "/demo/static/js/runtime-main.b8a73cd7.js",
-    "runtime-main.js.map": "/demo/static/js/runtime-main.b8a73cd7.js.map",
-    "static/js/2.8dae7201.chunk.js": "/demo/static/js/2.8dae7201.chunk.js",
-    "static/js/2.8dae7201.chunk.js.map": "/demo/static/js/2.8dae7201.chunk.js.map",
+    "main.css": "/demo/static/css/main.1aad1d5c.chunk.css",
+    "main.js": "/demo/static/js/main.e3f8ff48.chunk.js",
+    "main.js.map": "/demo/static/js/main.e3f8ff48.chunk.js.map",
+    "runtime-main.js": "/demo/static/js/runtime-main.44e254a4.js",
+    "runtime-main.js.map": "/demo/static/js/runtime-main.44e254a4.js.map",
+    "static/js/2.1c5d1111.chunk.js": "/demo/static/js/2.1c5d1111.chunk.js",
+    "static/js/2.1c5d1111.chunk.js.map": "/demo/static/js/2.1c5d1111.chunk.js.map",
     "static/css/3.5c05122a.chunk.css": "/demo/static/css/3.5c05122a.chunk.css",
-    "static/js/3.fe6d7590.chunk.js": "/demo/static/js/3.fe6d7590.chunk.js",
-    "static/js/3.fe6d7590.chunk.js.map": "/demo/static/js/3.fe6d7590.chunk.js.map",
+    "static/js/3.e5f517e3.chunk.js": "/demo/static/js/3.e5f517e3.chunk.js",
+    "static/js/3.e5f517e3.chunk.js.map": "/demo/static/js/3.e5f517e3.chunk.js.map",
     "index.html": "/demo/index.html",
     "static/css/3.5c05122a.chunk.css.map": "/demo/static/css/3.5c05122a.chunk.css.map",
-    "static/css/main.07d7437e.chunk.css.map": "/demo/static/css/main.07d7437e.chunk.css.map",
-    "static/js/2.8dae7201.chunk.js.LICENSE.txt": "/demo/static/js/2.8dae7201.chunk.js.LICENSE.txt",
+    "static/css/main.1aad1d5c.chunk.css.map": "/demo/static/css/main.1aad1d5c.chunk.css.map",
+    "static/js/2.1c5d1111.chunk.js.LICENSE.txt": "/demo/static/js/2.1c5d1111.chunk.js.LICENSE.txt",
     "static/media/back.a004a840.svg": "/demo/static/media/back.a004a840.svg",
     "static/media/Profile.module.css": "/demo/static/media/phonepicutre.5ca5e53e.jpg",
     "static/media/sign-out-alt-solid.e94ae829.svg": "/demo/static/media/sign-out-alt-solid.e94ae829.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8a73cd7.js",
-    "static/js/2.8dae7201.chunk.js",
-    "static/css/main.07d7437e.chunk.css",
-    "static/js/main.63172419.chunk.js"
+    "static/js/runtime-main.44e254a4.js",
+    "static/js/2.1c5d1111.chunk.js",
+    "static/css/main.1aad1d5c.chunk.css",
+    "static/js/main.e3f8ff48.chunk.js"
   ]
 }
